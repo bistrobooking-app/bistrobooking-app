@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bistrobooking-app/portifolio/main/logo-horizontal.png" alt="Hub de Experiências Logo" width="1700"/>
+  <img src="https://github.com/bistrobooking-app/bistrobooking-app/blob/main/logo-horizontal.png" alt="Hub de Experiências Logo" width="1700"/>
 </p>
 
 <h1 align="center">
