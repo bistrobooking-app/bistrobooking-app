@@ -164,6 +164,8 @@ Elas devem ser **planejadas, organizadas e entregues com qualidade.**
 
 🚧 Em desenvolvimento
 
+suporte@bistrobooking.com.br
+
 ---
 
 ## 🤝 Contribuição
